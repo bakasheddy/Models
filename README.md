@@ -1,5 +1,5 @@
 # Shedrack David
-![image](image/ssh.png)
+![image](image/shh.png)
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
