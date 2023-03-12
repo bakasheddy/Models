@@ -1,5 +1,6 @@
 # Shedrack David
-![image](image/shh.png)
+<img src="image/shh.png" alt="Image" style="width: 852px; height: 1080px; border-radius: 50%;">
+
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
