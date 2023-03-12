@@ -1,5 +1,4 @@
-<img src="image/shh.png" alt="Image"  border-radius: 50%;">
-
+[![Image](shh.png){: width="852" height="1080" style="border-radius: 50%;"}](shh.png)
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
