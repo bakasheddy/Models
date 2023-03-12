@@ -1,5 +1,5 @@
 # Shedrack David
-<img src="image/ssh.png" alt="image" style="border-radius: 50%;">
+![image](image/ssh.png)
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
