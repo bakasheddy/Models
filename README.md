@@ -1,4 +1,4 @@
-[![Image](shh.png){: width="852" height="1080" style="border-radius: 50%;"}](shh.png)
+[![Image](image/shh.png){: width="852" height="1080" style="border-radius: 50%;"}](image/shh.png)
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
