@@ -1,4 +1,4 @@
-# Shedraxk David
+# Shedrack David
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
 # Education
