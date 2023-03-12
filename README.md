@@ -6,7 +6,7 @@
 * Bachelors of Computer Science, *Federal University of Technology Minna*, 2017-present
 
 # [Project 1: Currency Foreign Exchange Rates Forecasting](https://github.com/bakasheddy/Currency-Foreign-Exchange-Rate-Prediction)
-![image](image/2023-02-09-09-35-08.jpg)
+![image](image/2023-02-09-09-35-08.png)
 
 
 This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall'22. ARIMA and Prophet model were used to forecast the closing price of currency exchange. An app was deployed with a friendly UI where users can easily make forecast on a currency pair of their choice, based on the available data used.
