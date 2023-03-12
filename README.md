@@ -1,4 +1,6 @@
 # Shedrack David
+<img src="image/ssh.png" alt="image" style="border-radius: 50%;">
+
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
 # Education
