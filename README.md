@@ -36,8 +36,8 @@ Photo by <a href="https://unsplash.com/de/@fredpixlab?utm_source=unsplash&utm_me
 
 This analysis was conducted on over 2 million data points from the FordGo regional public bicycle sharing system in California's San Francisco Bay Area. The primary objective of the analysis was to understand usage patterns among user groups of the bike sharing system and answer questions such as:
 
-* **When are the majority of trips taken in terms of time of day or month of the year?**
-* **What is the average trip duration, and does this vary based on whether the user is a subscriber or a customer?**
+* ***When are the majority of trips taken in terms of time of day or month of the year?***
+* ***What is the average trip duration, and does this vary based on whether the user is a subscriber or a customer?***
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
 
   
