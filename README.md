@@ -1,4 +1,4 @@
-[![Image](image/profil.jpg){: width="640" height="770" style="border-radius: 50%;"}](image/profil.jpg)
+[![Image](image/profil.jpg){: width="540" height="670" style="border-radius: 50%;"}](image/profil.jpg)
 # Shedrack David
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
@@ -14,7 +14,7 @@
 This is a Capstone Project completed by Team Pycaret during the Hamoye Data Science Program in Fall 2022. The team utilized both ARIMA and Prophet models to forecast the closing price of currency exchange. As a result, an application was deployed with a user-friendly interface, allowing users to easily make forecasts on a currency pair of their choice based on the available data.
 
 * **Python libraries and technologies used:** Python, Jupyter, Streamlit, fbprophet, ARIMA, Plotly, pandas, numpy, scipy, matplotlib, seaborn, canva
-* **contributors:** [Goodrich Okoro](https://www.linkedin.com/in/goodrichokoro/), [Joshua Salako](https://www.linkedin.com/mwlite/in/salakojoshua), [Swathi Venugopal](https://www.linkedin.com/in/swathi-venugopal-ab0b47186), [Reshma Jayaprakash](https://www.linkedin.com/in/reshma-jayaprakash-8a278aa0), [Oluwabamise Omolaso](https://www.linkedin.com/in/oluwabamise-omolaso), [Yash Malode](https://www.linkedin.com/in/yash-malode-26a169216), [Yakub Nabilat Titilayo](https://www.linkedin.com/in/nabilatyakub)
+* **contributors:** [Shedrack David](https://www.linkedin.com/in/shedrack-david-1a116b235), [Goodrich Okoro](https://www.linkedin.com/in/goodrichokoro/), [Joshua Salako](https://www.linkedin.com/mwlite/in/salakojoshua), [Swathi Venugopal](https://www.linkedin.com/in/swathi-venugopal-ab0b47186), [Reshma Jayaprakash](https://www.linkedin.com/in/reshma-jayaprakash-8a278aa0), [Oluwabamise Omolaso](https://www.linkedin.com/in/oluwabamise-omolaso), [Yash Malode](https://www.linkedin.com/in/yash-malode-26a169216), [Yakub Nabilat Titilayo](https://www.linkedin.com/in/nabilatyakub)
 * **Output:** Currency Foreign Exchange Rates Prediction
 
 # [Project 2: Tennis Player Analysis](https://github.com/bakasheddy/Tennis-Player-Analysis.git)
@@ -39,5 +39,6 @@ This analysis was conducted on over 2 million data points from the FordGo region
 * ***When are the majority of trips taken in terms of time of day or month of the year?***
 * ***What is the average trip duration, and does this vary based on whether the user is a subscriber or a customer?***
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
+* **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
 
   
