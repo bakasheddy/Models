@@ -22,6 +22,6 @@ This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall
 Photo by <a href="https://unsplash.com/@chinorocha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chino Rocha</a> on <a href="https://unsplash.com/photos/2FKTyJqfWX8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-This project aims to answer one question; ***what makes the best tennis player?*** to answer this several analytical techniques was carried out on a dataset containing several tennis games and the data was filtered for just the winner, these winners was further filtered to the top ten winners of all time., this is where things get interesting.
+This project aims to answer one question: ***What makes the best tennis player?*** To answer this, several analytical techniques were carried out on a dataset containing several tennis games, and the data was filtered for just the winners. These winners were further filtered to the top ten winners of all time. This is where things get interesting.
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
 * **Output:** Tennis Player Analysis
