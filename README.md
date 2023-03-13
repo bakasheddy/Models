@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
 [Home](README.md)
 [About](about.md)
 [Contact](contact.md)
