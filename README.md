@@ -1,4 +1,4 @@
-[![Image](image/shh.png){: style="border-radius: 50%;"}](image/shh.png)
+[![Image](image/shh2.png){: style="border-radius: 50%;"}](image/shh2.png)
 # Shedrack David
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
