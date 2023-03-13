@@ -1,4 +1,4 @@
-[![Image](image/shh2.jpg){: style="border-radius: 50%;"}](image/shh2.jpg)
+[![Image](image/shh2.jpg){: style="border-radius: 35%;"}](image/shh2.jpg)
 # Shedrack David
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
@@ -16,12 +16,12 @@ This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall
 * **contributors:** [Goodrich Okoro](https://www.linkedin.com/in/goodrichokoro/), [Joshua Salako](https://www.linkedin.com/mwlite/in/salakojoshua), [Swathi Venugopal](https://www.linkedin.com/in/swathi-venugopal-ab0b47186), [Reshma Jayaprakash](https://www.linkedin.com/in/reshma-jayaprakash-8a278aa0), [Oluwabamise Omolaso](https://www.linkedin.com/in/oluwabamise-omolaso), [Yash Malode](https://www.linkedin.com/in/yash-malode-26a169216), [Yakub Nabilat Titilayo](https://www.linkedin.com/in/nabilatyakub)
 * **Output:** Currency Foreign Exchange Rates Prediction
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
+# [Project 2: Tennis Player Analysis](https://github.com/bakasheddy/Hamoye-Group-Catboost-project)
+![alt text](image/chino-rocha-2FKTyJqfWX8-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@chinorocha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chino Rocha</a> on <a href="https://unsplash.com/photos/2FKTyJqfWX8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+This project aims to answer one question; ***what makes the best tennis player?*** to answer this several analytical techniques was carried out on a dataset containing several tennis games and the data was filtered for just the winner, these winners was further filtered to the top ten winners of all time., this is where things get interesting.
+* **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
+* **Output:** Tennis Player Analysis
