@@ -1,19 +1,12 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="styles.css">
-  </head>
-  <body>
-    <!-- Your Markdown content here -->
- 
 
+<link rel="stylesheet" href="styles.css">
 
-        [Home|](README.md)
-        [About|](about.md)
-        [Contact](contact.md)
+[Home|](README.md)
+[About|](about.md)
+[Contact](contact.md)
 
-        [![Image](image/profil.jpg){: width="240" height="300" style="border-radius: 50%;"}](image/profil.jpg)
-        # Shedrack David
+[![Image](image/profil.jpg){: width="240" height="300" style="border-radius: 50%;"}](image/profil.jpg)
+# Shedrack David
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
@@ -56,6 +49,4 @@ This analysis was conducted on over 2 million data points from the FordGo region
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
 
-    
- </body>
-</html>
+
