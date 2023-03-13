@@ -1,4 +1,4 @@
-[![Image](image/profil.jpg){: width="540" height="670" style="border-radius: 50%;"}](image/profil.jpg)
+[![Image](image/profil.jpg){: width="440" height="570" style="border-radius: 50%;"}](image/profil.jpg)
 # Shedrack David
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
@@ -38,6 +38,7 @@ This analysis was conducted on over 2 million data points from the FordGo region
 
 * ***When are the majority of trips taken in terms of time of day or month of the year?***
 * ***What is the average trip duration, and does this vary based on whether the user is a subscriber or a customer?***
+
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
 
