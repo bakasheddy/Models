@@ -2,8 +2,8 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-[Home](README.md)
-[About](about.md)
+[Home|](README.md)
+[About|](about.md)
 [Contact](contact.md)
 
 [![Image](image/profil.jpg){: width="240" height="300" style="border-radius: 50%;"}](image/profil.jpg)
