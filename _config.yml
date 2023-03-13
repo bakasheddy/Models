@@ -30,12 +30,6 @@ collections:
   posts:
     output: true
 
-# Markdown settings
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  syntax_highlighter: rouge
-
 # Default front matter
 defaults:
   - scope:
