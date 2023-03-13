@@ -1,4 +1,4 @@
-[![Image](image/shh2.jpg){: style="border-radius: 35%;"}](image/shh2.jpg)
+[![Image](image/profil.jpg)](image/profil.jpg)
 # Shedrack David
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
