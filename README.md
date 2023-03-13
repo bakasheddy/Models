@@ -1,4 +1,4 @@
-[![Image](image/profil.jpg)](image/profil.jpg)
+[![Image](image/profil.jpg){: style="border-radius: 50%;"}](image/profil.jpg)
 # Shedrack David
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
