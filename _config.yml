@@ -29,11 +29,3 @@ author:
 collections:
   posts:
     output: true
-
-# Default front matter
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: post
-      comments: false
