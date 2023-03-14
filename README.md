@@ -10,7 +10,7 @@
 
 This is a Capstone Project completed by Team Pycaret during the Hamoye Data Science Program in Fall 2022. The team utilized both ARIMA and Prophet models to forecast the closing price of currency exchange. As a result, an application was deployed with a user-friendly interface, allowing users to easily make forecasts on a currency pair of their choice based on the available data.
 
-[![Image](image/live_xchang.jpg){: width="140" height="90"}](image/live_xchang.jpg) [![Image](image/tri.JPG){: width="140" height="90"}](image/tri.JPG) [![Image](image/tri4.JPG){: width="140" height="90"}](image/tri4.JPG) [![Image](image/newplot.JPG){: width="140" height="90"}](image/newplot.JPG)
+[![Image](image/live_xchang.jpg){: width="140" height="90"}](image/live_xchang.jpg) [![Image](image/tri.JPG){: width="140" height="90"}](image/tri.JPG) [![Image](image/tri4.JPG){: width="140" height="90"}](image/tri4.JPG) [![Image](image/newplot.png){: width="140" height="90"}](image/newplot.png)
 
 
 * **Python libraries and technologies used:** Python, Jupyter, Streamlit, fbprophet, ARIMA, Plotly, pandas, numpy, scipy, matplotlib, seaborn, canva
