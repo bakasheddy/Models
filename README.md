@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="image/favicon.png">
+
 [Home |](README.md)
 [About |](about.md)
 [Contact](contact.md)
