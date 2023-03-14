@@ -9,6 +9,9 @@
 
 
 This is a Capstone Project completed by Team Pycaret during the Hamoye Data Science Program in Fall 2022. The team utilized both ARIMA and Prophet models to forecast the closing price of currency exchange. As a result, an application was deployed with a user-friendly interface, allowing users to easily make forecasts on a currency pair of their choice based on the available data.
+[![Image](image/live_xchang.jpg){: width="140" height="140"}](image/live_xchang.jpg)
+[![Image](image/tri.jpg){: width="140" height="140"}](image/tri.jpg)
+[![Image](image/tri4.jpg){: width="140" height="140"}](image/tri4.jpg)
 
 * **Python libraries and technologies used:** Python, Jupyter, Streamlit, fbprophet, ARIMA, Plotly, pandas, numpy, scipy, matplotlib, seaborn, canva
 * **contributors:** [Shedrack David](https://www.linkedin.com/in/shedrack-david-1a116b235), [Goodrich Okoro](https://www.linkedin.com/in/goodrichokoro/), [Joshua Salako](https://www.linkedin.com/mwlite/in/salakojoshua), [Swathi Venugopal](https://www.linkedin.com/in/swathi-venugopal-ab0b47186), [Reshma Jayaprakash](https://www.linkedin.com/in/reshma-jayaprakash-8a278aa0), [Oluwabamise Omolaso](https://www.linkedin.com/in/oluwabamise-omolaso), [Yash Malode](https://www.linkedin.com/in/yash-malode-26a169216), [Yakub Nabilat Titilayo](https://www.linkedin.com/in/nabilatyakub)
@@ -21,6 +24,9 @@ Photo by <a href="https://unsplash.com/@chinorocha?utm_source=unsplash&utm_mediu
   
 
 This project aims to answer one question: ***What makes the best tennis player?*** To answer this, several analytical techniques were carried out on a dataset containing several tennis games, and the data was filtered for just the winners. These winners were further filtered to the top ten winners of all time. This is where things get interesting.
+[![Image](image/trr.jpg){: width="140" height="140"}](image/trr.jpg)
+[![Image](image/trr4.jpg){: width="140" height="140"}](image/trr4.jpg)
+[![Image](image/trr2.jpg){: width="140" height="140"}](image/trr2.jpg)
 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
 * **Output:** Tennis Player Analysis
@@ -38,5 +44,8 @@ This analysis was conducted on over 2 million data points from the FordGo region
 
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
+[![Image](image/tr1.jpg){: width="140" height="140"}](image/tr1.jpg)
+[![Image](image/tr3.jpg){: width="140" height="140"}](image/tr3.jpg)
+[![Image](image/tr4.jpg){: width="140" height="140"}](image/tr4.jpg)
 
 
