@@ -10,7 +10,7 @@
 
 This is a Capstone Project completed by Team Pycaret during the Hamoye Data Science Program in Fall 2022. The team utilized both ARIMA and Prophet models to forecast the closing price of currency exchange. As a result, an application was deployed with a user-friendly interface, allowing users to easily make forecasts on a currency pair of their choice based on the available data.
 
-[![Image](image/live_xchang.jpg){: width="140" height="90"}](image/live_xchang.jpg) [![Image](image/tri.jpg){: width="140" height="90"}](image/tri.jpg) [![Image](image/tri4.jpg){: width="140" height="90"}](image/tri4.jpg)
+[![Image](image/live_xchang.jpg){: width="140" height="90"}](image/live_xchang.jpg) [![Image](image/tri.JPG){: width="140" height="90"}](image/tri.JPG) [![Image](image/tri4.JPG){: width="140" height="90"}](image/tri4.JPG)
 
 
 * **Python libraries and technologies used:** Python, Jupyter, Streamlit, fbprophet, ARIMA, Plotly, pandas, numpy, scipy, matplotlib, seaborn, canva
@@ -24,7 +24,7 @@ Photo by <a href="https://unsplash.com/@chinorocha?utm_source=unsplash&utm_mediu
   
 
 This project aims to answer one question: ***What makes the best tennis player?*** To answer this, several analytical techniques were carried out on a dataset containing several tennis games, and the data was filtered for just the winners. These winners were further filtered to the top ten winners of all time. This is where things get interesting.
-[![Image](image/trr.jpg){: width="140" height="90"}](image/trr.jpg) [![Image](image/trr4.jpg){: width="140" height="90"}](image/trr4.jpg) [![Image](image/trr2.jpg){: width="140" height="90"}](image/trr2.jpg)
+[![Image](image/trr.JPG){: width="140" height="90"}](image/trr.JPG) [![Image](image/trr4.JPG){: width="140" height="90"}](image/trr4.JPG) [![Image](image/trr2.JPG){: width="140" height="90"}](image/trr2.JPG)
 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
 * **Output:** Tennis Player Analysis
@@ -42,5 +42,5 @@ This analysis was conducted on over 2 million data points from the FordGo region
 
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
-[![Image](image/tr1.jpg){: width="140" height="90"}](image/tr1.jpg) [![Image](image/tr3.jpg){: width="140" height="90"}](image/tr3.jpg) [![Image](image/tr4.jpg){: width="140" height="90"}](image/tr4.jpg)
+[![Image](image/tr1.JPG){: width="140" height="90"}](image/tr1.JPG) [![Image](image/tr3.JPG){: width="140" height="90"}](image/tr3.JPG) [![Image](image/tr4.JPG){: width="140" height="90"}](image/tr4.JPG)
 
