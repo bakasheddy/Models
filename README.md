@@ -24,7 +24,9 @@ Photo by <a href="https://unsplash.com/@chinorocha?utm_source=unsplash&utm_mediu
   
 
 This project aims to answer one question: ***What makes the best tennis player?*** To answer this, several analytical techniques were carried out on a dataset containing several tennis games, and the data was filtered for just the winners. These winners were further filtered to the top ten winners of all time. This is where things get interesting.
+
 [![Image](image/trr.JPG){: width="140" height="90"}](image/trr.JPG) [![Image](image/trr4.JPG){: width="140" height="90"}](image/trr4.JPG) [![Image](image/trr2.JPG){: width="140" height="90"}](image/trr2.JPG)
+
 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
 * **Output:** Tennis Player Analysis
@@ -42,5 +44,8 @@ This analysis was conducted on over 2 million data points from the FordGo region
 
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
+ 
 [![Image](image/tr1.JPG){: width="140" height="90"}](image/tr1.JPG) [![Image](image/tr3.JPG){: width="140" height="90"}](image/tr3.JPG) [![Image](image/tr4.JPG){: width="140" height="90"}](image/tr4.JPG)
+
+
 
