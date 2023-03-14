@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="image/favicon.png">
+<link rel="shortcut icon" type="image/png" href="image/favicon.ico">
 
 [Home |](README.md)
 [About |](about.md)
