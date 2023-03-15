@@ -6,7 +6,7 @@
 
 *Data Analyst | Aspiring Data Scientist | ML/AI Enthusiast*
 
-Hi there! I'm Shedrack David, and I'm a Data Analyst. I have a passion for I have a passion for may technologies like Python, Machine Learning, Artificial Intelligence, and I love using data to uncover insights and solve complex problems.
+Hi there! I'm Shedrack David, and I'm a Data Analyst. I have a passion for may technologies like Python, Machine Learning, Artificial Intelligence, and I love using data to uncover insights and solve complex problems.
 
 I'm currently a student Studying Computer Science at Federal University of Technology Minna and I also have a [Data Analyst certification](https://confirm.udacity.com/JR59H6LU) from Udacity. My academic background has provided me with a strong foundation in Data science and Data analysis, which I have built upon through my professional experience.
 
