@@ -29,3 +29,9 @@ author:
 collections:
   posts:
     output: true
+defaults:
+  # _config.yml
+  - scope:
+      path: ""
+    values:
+      favicon: /image/favicon.ico
