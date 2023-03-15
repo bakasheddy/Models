@@ -8,7 +8,7 @@
 
 Hi there! I'm Shedrack David, and I'm a Data Analyst. I have a passion for I have a passion for may technologies like Python, Machine Learning, Artificial Intelligence, and I love using data to uncover insights and solve complex problems.
 
-I'm currently a student Studying Computer Science from Federal University of Technology Minna and I also have a [Data Analyst](https://confirm.udacity.com/JR59H6LU) certification from Udacity. My academic background has provided me with a strong foundation in Data science and Data analysis, which I have built upon through my professional experience.
+I'm currently a student Studying Computer Science from Federal University of Technology Minna and I also have a [Data Analyst certification](https://confirm.udacity.com/JR59H6LU) from Udacity. My academic background has provided me with a strong foundation in Data science and Data analysis, which I have built upon through my professional experience.
 
 When I'm not busy crunching numbers and analyzing data, you can usually find me learning about cosmology, philosophy, physics or listening to music. I find that these are a perfect way to unwind and clear my head after a long day of work.
 
