@@ -34,4 +34,4 @@ defaults:
   - scope:
       path: ""
     values:
-      favicon: image/favicon.ico
+      favicon: /image/favicon.ico
