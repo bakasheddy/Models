@@ -1,5 +1,5 @@
 [Home |](README.md)
-[About |](about.md){:target="_blank"}
+[About |](about.md)
 [Contact](contact.md){:target="_blank"}
 
 [![Image](image/profil.jpg){: width="240" height="300" style="border-radius: 50%;"}](image/profil.jpg)
