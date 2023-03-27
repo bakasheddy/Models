@@ -10,6 +10,8 @@ plugins:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-postfiles
+- jekyll-sass-converter
+
 title: Shedrack David
 
 # Site settings
