@@ -9,8 +9,6 @@
 </head>
 <body>
 
-Click the toggle button below to switch between light and dark mode.
-
 <div class="theme-switch-wrapper">
   <label class="theme-switch" for="checkbox">
     <input type="checkbox" id="checkbox" />
@@ -19,6 +17,8 @@ Click the toggle button below to switch between light and dark mode.
   <em>Enable Dark Mode!</em>
 </div>
 
+</body>
+</html>
 
 [Home |](README.md)
 [About |](about.md){:target="_blank"}
@@ -70,6 +70,4 @@ To answer these questions, a univariate, bivariate and multivariate analysis was
  
 [![Image](image/tr1.JPG){: width="140" height="90"}](image/tr1.JPG) [![Image](image/tr3.JPG){: width="140" height="90"}](image/tr3.JPG) [![Image](image/tr4.JPG){: width="140" height="90"}](image/tr4.JPG) [![Image](image/tr5.JPG){: width="140" height="90"}](image/tr5.JPG) 
 
-</body>
-</html>
 
