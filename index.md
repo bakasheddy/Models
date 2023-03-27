@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>My GitHub Pages Website</title>
+    
     <link rel="stylesheet" href="styles.css">
     <script src="script.js"></script>
     <link rel="shortcut icon" type="image/png" href="image/favicon.ico">
