@@ -1,12 +1,12 @@
 <link rel="shortcut icon" type="image/png" href="image/favicon.ico">
 
 [Home |](README.md)
-[About |](about.md)
-[Contact](contact.md)
+[About |](about.md){:target="_blank"}
+[Contact](contact.md){:target="_blank"}
 
 
 
-# [Project 1: Currency Foreign Exchange Rates Forecasting](https://github.com/bakasheddy/Currency-Foreign-Exchange-Rate-Prediction.git)
+# [Project 1: Currency Foreign Exchange Rates Forecasting](https://github.com/bakasheddy/Currency-Foreign-Exchange-Rate-Prediction.git){:target="_blank"}
 ![image](image/2023-02-09-09-35-08.png)
 
 
@@ -19,7 +19,7 @@ This is a Capstone Project completed by Team Pycaret during the Hamoye Data Scie
 * **contributors:** [Shedrack David](https://www.linkedin.com/in/shedrack-david-1a116b235), [Goodrich Okoro](https://www.linkedin.com/in/goodrichokoro/), [Joshua Salako](https://www.linkedin.com/mwlite/in/salakojoshua), [Swathi Venugopal](https://www.linkedin.com/in/swathi-venugopal-ab0b47186), [Reshma Jayaprakash](https://www.linkedin.com/in/reshma-jayaprakash-8a278aa0), [Oluwabamise Omolaso](https://www.linkedin.com/in/oluwabamise-omolaso), [Yash Malode](https://www.linkedin.com/in/yash-malode-26a169216), [Yakub Nabilat Titilayo](https://www.linkedin.com/in/nabilatyakub)
 * **Output:** Currency Foreign Exchange Rates Prediction
 
-# [Project 2: Tennis Player Analysis](https://github.com/bakasheddy/Tennis-Player-Analysis.git)
+# [Project 2: Tennis Player Analysis](https://github.com/bakasheddy/Tennis-Player-Analysis.git){:target="_blank"}
 ![alt text](image/chino-rocha-2FKTyJqfWX8-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@chinorocha?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chino Rocha</a> on <a href="https://unsplash.com/photos/2FKTyJqfWX8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -34,7 +34,7 @@ This project aims to answer one question: ***What makes the best tennis player?*
 * **Output:** Tennis Player Analysis
 
 
-# [Project 3: FordGo Bicycle Sharing System](https://github.com/bakasheddy/FordGo-Bicycle-Sharing-System.git)
+# [Project 3: FordGo Bicycle Sharing System](https://github.com/bakasheddy/FordGo-Bicycle-Sharing-System.git){:target="_blank"}
 ![alt text](image/fred-pixlab-OD3iQ1S0-nE-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/de/@fredpixlab?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Fred Pixlab</a> on <a href="https://unsplash.com/photos/OD3iQ1S0-nE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
