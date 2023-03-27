@@ -1,4 +1,34 @@
-<link rel="shortcut icon" type="image/png" href="image/favicon.ico">
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>My GitHub Pages Website</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+    <link rel="shortcut icon" type="image/png" href="image/favicon.ico">
+</head>
+<body>
+
+# My GitHub Pages Website
+
+Welcome to my website! Here's some **markdown** content.
+
+- Bullet point 1
+- Bullet point 2
+
+Click the toggle button below to switch between light and dark mode.
+
+<div class="theme-switch-wrapper">
+  <label class="theme-switch" for="checkbox">
+    <input type="checkbox" id="checkbox" />
+    <div class="slider round"></div>
+  </label>
+  <em>Enable Dark Mode!</em>
+</div>
+</body>
+</html>
+
 
 [Home |](README.md)
 [About |](about.md){:target="_blank"}
