@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,13 +9,6 @@
 </head>
 <body>
 
-# My GitHub Pages Website
-
-Welcome to my website! Here's some **markdown** content.
-
-- Bullet point 1
-- Bullet point 2
-
 Click the toggle button below to switch between light and dark mode.
 
 <div class="theme-switch-wrapper">
@@ -26,8 +18,6 @@ Click the toggle button below to switch between light and dark mode.
   </label>
   <em>Enable Dark Mode!</em>
 </div>
-</body>
-</html>
 
 
 [Home |](README.md)
@@ -76,8 +66,10 @@ This analysis was conducted on over 2 million data points from the FordGo region
 
 To answer these questions, a univariate, bivariate and multivariate analysis was carried out on correlating variable and by answering these questions, the analysis aimed to provide valuable insights into the usage patterns of the FordGo bicycle sharing system and inform strategies for improving the service. 
 * **Python libraries used:** python, pandas, numpy, matplotlib, seaborn
+
  
 [![Image](image/tr1.JPG){: width="140" height="90"}](image/tr1.JPG) [![Image](image/tr3.JPG){: width="140" height="90"}](image/tr3.JPG) [![Image](image/tr4.JPG){: width="140" height="90"}](image/tr4.JPG) [![Image](image/tr5.JPG){: width="140" height="90"}](image/tr5.JPG) 
 
-
+</body>
+</html>
 
