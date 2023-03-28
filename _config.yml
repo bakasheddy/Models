@@ -51,12 +51,10 @@ jekyll_compose:
   post_default_front_matter:
     modified:
     tags: []
-    layout: default
     description:
   draft_default_front_matter:
     modified:
     tags: []
-    layout: default
     description:
 
 
