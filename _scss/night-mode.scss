@@ -1,0 +1,27 @@
+// Define styles for day mode
+body {
+  background-color: white;
+  color: black;
+}
+
+h1, h2, h3 {
+  color: $primary-color;
+}
+
+a {
+  color: $primary-color;
+}
+
+// Define styles for night mode
+body.night-mode {
+  background-color: #333;
+  color: white;
+}
+
+body.night-mode h1, body.night-mode h2, body.night-mode h3 {
+  color: $secondary-color;
+}
+
+body.night-mode a {
+  color: $secondary-color;
+}
