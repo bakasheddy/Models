@@ -20,7 +20,7 @@
 </body>
 </html>
 
-[Home |](README.md)
+[Home |](index.md)
 [About |](about.md){:target="_blank"}
 [Contact](contact.md){:target="_blank"}
 
