@@ -64,3 +64,5 @@ include:
   - _redirects
   - .htaccess
 
+sass:
+  style: compressed
