@@ -34,3 +34,8 @@ a {
 .night-mode a {
   color: $secondary-color;
 }
+---
+---
+
+@import "{{ site.theme }}";
+@import "custom.scss";
