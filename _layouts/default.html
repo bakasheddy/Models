@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="styles.css">
     <script src="script.js"></script>
     <link rel="shortcut icon" type="image/png" href="image/favicon.ico">
+    <button id="night-mode-button">Night mode</button>
+    <script src="{{ site.baseurl }}/js/night-mode.js"></script>
+
   </head>
   <body{% if site.mode == "night" %} class="night-mode"{% endif %}>
     {{ content }}
