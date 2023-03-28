@@ -1,25 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    
-    <link rel="stylesheet" href="styles.css">
-    <script src="script.js"></script>
-    <link rel="shortcut icon" type="image/png" href="image/favicon.ico">
-</head>
-<body>
-
-<div class="theme-switch-wrapper">
-  <label class="theme-switch" for="checkbox">
-    <input type="checkbox" id="checkbox" />
-    <div class="slider round"></div>
-  </label>
-  <em>Enable Dark Mode!</em>
-</div>
-
-</body>
-</html>
-
 [Home |](index.md)
 [About |](about.md){:target="_blank"}
 [Contact](contact.md){:target="_blank"}
