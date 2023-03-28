@@ -1,3 +1,10 @@
+---
+sass:
+  sass_dir: _sass
+  style: compressed
+---
+@import "sass/style";
+
 body {
   font-family: sans-serif;
 }
