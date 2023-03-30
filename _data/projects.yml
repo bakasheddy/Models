@@ -1,7 +1,7 @@
 - name: First Project
   image: ../assets/images/2023-02-09-09-35-08.png
   link: https://github.com/bakasheddy/Currency-Foreign-Exchange-Rate-Prediction.git
-  description: This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall'22. ARIMA and Prophet model were used to forecast the closing price of currency exchange. An app was deployed with a friendly UI where users can easily make forecast on a currency pair of their choice, based on the available data used.
+  description: This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall 22. ARIMA and Prophet model were used to forecast the closing price of currency exchange. An app was deployed with a friendly UI where users can easily make forecast on a currency pair of their choice, based on the available data used.
 - name: Second Project
   link:
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
