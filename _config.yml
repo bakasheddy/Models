@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'bakasheddy.github.io/Portfolio'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: "Portfolio"
 
 # Title of the Site
 title: Shedrack David
@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: ./assets/images/favicon.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -45,7 +45,16 @@ author-name: Shedrack David
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: Greetings, my dear reader! My name is Shedrack David, and I am a data analyst by profession. Some people say that analyzing data is boring, but for me, it's like trying to solve a mystery, and I love a good puzzle! I spend most of my days poring over spreadsheets, charts, and graphs, looking for insights and patterns that others might miss.
+
+But when I'm not working, you can find me indulging in some of my other passions. For instance, I love listening to music. I believe that music can soothe the soul and inspire creativity, and it's also a great way to take a break from the grind.
+
+Another way I like to unwind is by watching documentaries and podcasts about philosophy, cosmology, and data science. I find these topics fascinating because they help me understand the universe and our place in it. Plus, it's always fun to nerd out with like-minded people!
+
+When I'm not exploring the mysteries of the universe, you might find me playing video games or watching anime. I know, I know - some people might say that video games and anime are just for kids. But I believe that there's something special about being able to lose yourself in a fictional world, whether you're saving a princess or battling giant robots.
+So if you ever need to like talk about any of these topics or about life in general, feel free to reachout😊
+
+So that's me in a nutshell - a data analyst by day, a philosopher by night, and a video game/anime nerd in between. I'm passionate about using data to solve real-world problems, but I also believe that life is too short to take everything too seriously. So let's have some fun and make the most of our time on this crazy planet!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: bakasheddy.github.io/Portfolio
 
