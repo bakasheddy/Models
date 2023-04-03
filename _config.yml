@@ -4,12 +4,12 @@ markdown: kramdown
 # URL of the Site
 url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: Portfolio
 
 # Title of the Site
-title: What A Theme
+title: Shedrack David
 # Description of the Site
-description: A customizable Jekyll portfolio theme
+description: I am a Data Analyst, I strive to provide actionable insights to drive business decisions and i can actually tell interesting stories through data.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
