@@ -8,7 +8,7 @@ source "http://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll"
+# gem "jekyll"
 gem "rack"
 gem "webrick"
 #gem 'jekyll-admin', group: :jekyll_plugins
