@@ -1,15 +1,15 @@
 - name: Currency Foreign Exchange Rate Prediction
   image: /assets/images/2023-02-09-09-35-08.png
   link: https://github.com/bakasheddy/Currency-Foreign-Exchange-Rate-Prediction.git
-  description: This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall''22. ARIMA and Prophet model were used to forecast the closing price of currency exchange. An app was deployed with a friendly UI where users can easily make forecast on a currency pair of their choice, based on the available data used.
+  description: This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall-22. ARIMA and Prophet model were used to forecast the closing price of currency exchange. An app was deployed with a friendly UI where users can easily make forecast on a currency pair of their choice, based on the available data used.
 - name: Tennis Player Analysis
   link: https://github.com/bakasheddy/Tennis-Player-Analysis.git
   image: /assets/images/chino-rocha-2FKTyJqfWX8-unsplash.jpg
-  description: The aim of this project was to answer a question, what make the best tennis player? and to do this an analysis was carriedout on the world''s best tennis players and their habbits
+  description: The aim of this project was to answer a question, what make the best tennis player? and to do this an analysis was carriedout on the worlds best tennis players and their habbits
 - name: FordGo Bicycle Sharing System
   link: https://github.com/bakasheddy/FordGo-Bicycle-Sharing-System.git
   image: /assets/images/dovile-ramoskaite-x8rDSFN2DpY-unsplash.jpg
-  description: This analysis was done on over 2 million data of the FordGo regional public bicycle sharing system in California''s San Francisco Bay Area, The goal is to know usage patterns between the user groups of the bike sharing system and to answer the questions posed in my notebook
+  description: This analysis was done on over 2 million data of the FordGo regional public bicycle sharing system in Californias San Francisco Bay Area, The goal is to know usage patterns between the user groups of the bike sharing system and to answer the questions posed in my notebook
 - name: Time-series forecasting of electricity prices of a District
   link: https://github.com/bakasheddy/time-series-forecasting-of-electricity-prices-of-a-District.git
   image: /assets/images/andrey-metelev-qpAOxji4dAo-unsplash.jpg
@@ -17,4 +17,4 @@
 - name: TMDB movies Analysis
   link: https://github.com/bakasheddy/TMDB-movies-Analysis.git
   image: /assets/images/samuel-regan-asante-wMkaMXTJjlQ-unsplash.jpg
-  description: This project was done to answer two major questions, What kinds of properties are associated with movies that have high revenues? And Which genres are most popular from year to year?. For this project, i have downloaded the TMDb''s movie data from udacity''s project 1 course. The dataset has about 10,000 movies collected from The Movie Database
+  description: This project was done to answer two major questions, What kinds of properties are associated with movies that have high revenues? And Which genres are most popular from year to year?. For this project, i have downloaded the TMDbs movie data from udacitys project 1 course. The dataset has about 10,000 movies collected from The Movie Database
