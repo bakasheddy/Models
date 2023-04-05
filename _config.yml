@@ -61,7 +61,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
-  #- jekyll-github-pages
+  - jekyll-github-pages
 
 
 # Permalink
