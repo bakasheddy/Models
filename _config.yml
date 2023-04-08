@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: https://drive.google.com/file/d/124eyyyJno-TgR0wgZdvo-ZlvzEcC7--w/view?usp=sharing
+favicon-url: /assets/images/favicon.ico
     
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
