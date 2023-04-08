@@ -283,7 +283,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll
   jekyll-admin (= 0.9.0)
   jekyll-feed
   rack
