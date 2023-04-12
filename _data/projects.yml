@@ -3,7 +3,7 @@
   link: https://github.com/bakasheddy/Currency-Foreign-Exchange-Rate-Prediction.git
   description: This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall-22. ARIMA and Prophet model were used to forecast the closing price of currency exchange. An app was deployed with a friendly UI where users can easily make forecast on a currency pair of their choice, based on the available data used.
 - name: What makes a World-class Tennis Player?
-  link: https://github.com/bakasheddy/Tennis-Player-Analysis.git
+  link: https://github.com/bakasheddy/What-makes-a-World-class-Tennis-Player-.git
   image: /Portfolio/assets/images/chino-rocha-2FKTyJqfWX8-unsplash.jpg
   description: This project was undertaken as part of a group effort at Hamoye, where I am currently completing an internship. The primary objective of this initiative was to promote collaboration and teamwork among colleagues. The project sought to explore the qualities and characteristics that distinguish world-class tennis players from their peers. By conducting comprehensive research and analysis, our team aimed to uncover the key factors that contribute to the success of elite players in the sport of tennis. Through this project, we aimed to deepen our understanding of the game of tennis and the traits that are necessary to excel at the highest level of competition.
 - name: FordGo Bicycle Sharing System
@@ -14,7 +14,7 @@
   link: https://github.com/bakasheddy/time-series-forecasting-of-electricity-prices-of-a-District.git
   image: /Portfolio/assets/images/andrey-metelev-qpAOxji4dAo-unsplash.jpg
   description: In this project, i explored and build time series forecasting model for measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years.
-- name: TMDB movies Analysis
-  link: https://github.com/bakasheddy/TMDB-movies-Analysis.git
+- name: Blockbuster Genres Uncovering: the-Secrets-to-Box-Office-Success
+  link: https://github.com/bakasheddy/Blockbuster-Genres-Uncovering-the-Secrets-to-Box-Office-Success.git
   image: /Portfolio/assets/images/samuel-regan-asante-wMkaMXTJjlQ-unsplash.jpg
   description: This data analysis project aimed to investigate the properties associated with high revenue movies and the most popular movie genres from year to year. To achieve this, a dataset of approximately 10,000 movies from The Movie Database (TMDb) was downloaded from Udacitys Project 1 course. The project involved analyzing the dataset using data analysis techniques such as regression analysis and time series analysis to identify features strongly correlated with high revenue and the popularity of different movie genres over time.
