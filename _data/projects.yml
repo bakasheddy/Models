@@ -2,10 +2,10 @@
   image: /Portfolio/assets/images/2023-02-09-09-35-08.png
   link: https://github.com/bakasheddy/Currency-Foreign-Exchange-Rate-Prediction.git
   description: This a Capstone Project done by Team Pycaret in Hamoye Data Science Program Fall-22. ARIMA and Prophet model were used to forecast the closing price of currency exchange. An app was deployed with a friendly UI where users can easily make forecast on a currency pair of their choice, based on the available data used.
-- name: Tennis Player Analysis
+- name: What makes a World-class Tennis Player?
   link: https://github.com/bakasheddy/Tennis-Player-Analysis.git
   image: /Portfolio/assets/images/chino-rocha-2FKTyJqfWX8-unsplash.jpg
-  description: The aim of this project was to answer a question, what make the best tennis player? and to do this an analysis was carriedout on the worlds best tennis players and their habbits
+  description: This project was undertaken as part of a group effort at Hamoye, where I am currently completing an internship. The primary objective of this initiative was to promote collaboration and teamwork among colleagues. The project sought to explore the qualities and characteristics that distinguish world-class tennis players from their peers. By conducting comprehensive research and analysis, our team aimed to uncover the key factors that contribute to the success of elite players in the sport of tennis. Through this project, we aimed to deepen our understanding of the game of tennis and the traits that are necessary to excel at the highest level of competition.
 - name: FordGo Bicycle Sharing System
   link: https://github.com/bakasheddy/FordGo-Bicycle-Sharing-System.git
   image: /Portfolio/assets/images/dovile-ramoskaite-x8rDSFN2DpY-unsplash.jpg
