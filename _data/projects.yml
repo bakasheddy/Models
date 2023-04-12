@@ -17,4 +17,4 @@
 - name: TMDB movies Analysis
   link: https://github.com/bakasheddy/TMDB-movies-Analysis.git
   image: /Portfolio/assets/images/samuel-regan-asante-wMkaMXTJjlQ-unsplash.jpg
-  description: This project was done to answer two major questions, What kinds of properties are associated with movies that have high revenues? And Which genres are most popular from year to year?. For this project, i have downloaded the TMDbs movie data from udacitys project 1 course. The dataset has about 10,000 movies collected from The Movie Database
+  description: This data analysis project aimed to investigate the properties associated with high revenue movies and the most popular movie genres from year to year. To achieve this, a dataset of approximately 10,000 movies from The Movie Database (TMDb) was downloaded from Udacitys Project 1 course. The project involved analyzing the dataset using data analysis techniques such as regression analysis and time series analysis to identify features strongly correlated with high revenue and the popularity of different movie genres over time.
