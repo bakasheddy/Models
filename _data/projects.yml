@@ -2,7 +2,7 @@
   image: /Portfolio/assets/images/Payment-Fraud-Detection_Overgraph.jpg
   link: https://github.com/bakasheddy/ConCop.git
   description: The objective is to develop a robust predictive model capable of accurately discerning fraudulent transactions from legitimate ones.
-- name: RetainMe: Predicting-Customer-Retention
+- name: RetainMe-Predicting-Customer-Retention
   image: /Portfolio/assets/images/churn.jpg
   link: https://github.com/bakasheddy/RetainMe-Predicting-Customer-Retention.git
   description: This project was conducted to predict the possibility of churn among bank customers and analyze the various reasons why it may occur, as well as the circumstances surrounding their decision.
